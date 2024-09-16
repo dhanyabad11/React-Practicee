@@ -1,0 +1,13 @@
+/* styles/Profile.css */
+.profile {
+    padding: 20px;
+  }
+  
+  .profile h1 {
+    color: #333;
+  }
+  
+  .profile .details {
+    margin-top: 20px;
+  }
+  

@@ -1,0 +1,43 @@
+/* styles/App.css */
+body {
+    font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+
+  }
+  
+  nav ul {
+    display: flex;
+    list-style: none;
+  }
+  
+  nav ul li {
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: blue;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  form div {
+    margin-bottom: 10px;
+  }
+  
+  form label {
+    margin-bottom: 5px;
+  }
+  
+  form input {
+    padding: 8px;
+    font-size: 16px;
+  }
+  
